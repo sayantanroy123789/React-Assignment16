@@ -1,0 +1,12 @@
+
+#nav{
+    display: flex; 
+    flex-direction: column;
+    
+    
+}
+a{
+    text-decoration: none;
+    font-size: 26px;
+    color: rgb(16, 158, 111);
+}
